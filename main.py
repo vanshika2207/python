@@ -1,2 +1,0 @@
-#show a message
-print()
